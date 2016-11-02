@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/action_favourite"
+        android:title="Add to Favorite" />
+    <item
+        android:id="@+id/action_watch"
+        android:title="Watch Movie" />
+    <item
+        android:id="@+id/action_book"
+        android:title="Book Ticket" />
+</menu>
